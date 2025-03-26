@@ -1,0 +1,126 @@
+.login-box {
+    display: block;
+    width: 550px;
+    margin: 80px auto;
+    background-color: #f3f3f3;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #4D008C;
+}
+
+.login-box-head {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+/* body {
+    background-color: #f4f4f4;
+} */
+
+/* .login-box {
+    background-color: #ffffff;
+    border: 1px solid #0077b6;
+    color: #333333;
+} */
+
+/* .input-box .ant-input,
+.input-box .ant-input-password {
+    background-color: #e0e0e0;
+    border: 1px solid #0077b6;
+    color: #333333;
+}
+
+
+.input-box .ant-input::placeholder,
+.input-box .ant-input-password::placeholder {
+    color: #555555;
+} */
+
+
+/* .ant-btn-primary {
+    background-color: #d9dee6;
+    border: none;
+    color: #ffffff;
+} */
+
+/* .ant-btn-primary:hover {
+    background-color: #dde8f1;
+} */
+
+
+.login-box-body span {
+    color: #0f0113;
+}
+
+.login-box-body span:hover {
+    text-decoration: underline;
+}
+
+.remember-forgot-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.forgot-password {
+    color: #b23dd2;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.forgot-password:hover {
+    text-decoration: underline;
+}
+
+/* 
+.ant-btn-primary {
+    width: 100%;
+} */
+
+/* Sign Up Section */
+.login-extra {
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+/* Register Link Styling */
+.register-link {
+    color: #0f0113;
+    /* Professional blue */
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.register-link:hover {
+    text-decoration: underline;
+}
+
+/* Google Signup Button Styling */
+.google-signup {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    padding: 8px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-top: 10px;
+    width: 100%;
+}
+
+/* Google Logo in Button */
+.google-signup img {
+    width: 20px;
+    margin-right: 8px;
+}
+
+/* Hover Effect for Google Signup */
+.google-signup:hover {
+    background-color: #f1f1f1;
+}
